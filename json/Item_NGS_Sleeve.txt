@@ -348,5 +348,103 @@
 		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
+	},
+	{
+		"jp_text": "Sv「イドラ：EP1キービジュアル」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「イドラ：EP2キービジュアル」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「ヴァンドール英雄記」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「イドラ：１周年アニバーサリー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「イドラ：２周年アニバーサリー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「ジゼルとの出会い」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「ラッピーの集い場」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「お怒りステラ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「霊夢＆魔理沙」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「ユミアのアトリエ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「シンパシー2021」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「メイドロイド・ミャオ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「メイドロイド・クロエ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Sv「EXスタイル」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードスリーブが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
 	}
 ]

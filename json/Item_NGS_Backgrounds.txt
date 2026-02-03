@@ -448,7 +448,77 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "Bg「ゆっくり霊夢」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「ゆっくり魔理沙」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "Bg「リリーパＡ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「ユミアのアトリエ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「ユミア」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「アイラ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「ルトガー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「ニーナ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「ギルプリ：ミャオ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「ギルプリ：アリス」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「『PSO2es』Ｂ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
 		"tr_explain": "",

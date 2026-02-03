@@ -2212,6 +2212,69 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "N-シバ戦闘衣T2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "メルファンケープT2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "メルファンケープT2/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "メルファンケープT2/3[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "メルファンケープT2/4[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ティーエンメイシーT2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ティーエンメイシーT2/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ティーエンメイシーT2/3[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ティーエンメイシーT2/4[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "モードヴァンカT2/B[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
@@ -2226,7 +2289,175 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "ユミアの服T2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ユミアの服T2/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ヤクシニライカ/D[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ショートファーコートT2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ショートファーコートT2/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ショートファーコートT2/3[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ショートファーコートT2/4[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "シャペロージュT2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "シャペロージュT2/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ホルシード水着T2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ホルシード水着T2/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ブルーノ水着T2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ブルーノ水着T2/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ショートダウンジャケットT2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ショートダウンジャケットT2/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ショートダウンジャケットT2/3[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ショートダウンジャケットT2/4[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ユミアの服T2/B[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ユミアの服T2/B2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "シャペロージュT2/B[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "シャペロージュT2/B2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ホルシード水着T2/B[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ホルシード水着T2/B2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ブルーノ水着T2/B[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ブルーノ水着T2/B2[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "",

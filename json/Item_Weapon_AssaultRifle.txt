@@ -2147,5 +2147,82 @@
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
+	},
+	{
+		"assign": "18010125",
+		"jp_text": "ゼネス・ローザライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010126",
+		"jp_text": "ヴォルヘールライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010127",
+		"jp_text": "アインデールライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010129",
+		"jp_text": "クレス・ローザライフルAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010130",
+		"jp_text": "レイティーライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010140",
+		"jp_text": "エピス・イリニオンライフルⅢ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010122",
+		"jp_text": "アルセ・ヘブンストライカー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010141",
+		"jp_text": "トワル・レルガントライフルⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010142",
+		"jp_text": "レジェスライフルⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010143",
+		"jp_text": "レイティーライフルⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010147",
+		"jp_text": "トワル・レルガントライフルAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]

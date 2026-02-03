@@ -2007,5 +2007,82 @@
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
+	},
+	{
+		"assign": "14010129",
+		"jp_text": "ゼネス・ローザダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010130",
+		"jp_text": "ヴォルヘールダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010131",
+		"jp_text": "アインデールダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010134",
+		"jp_text": "クレス・ローザダガーAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010137",
+		"jp_text": "レイティーダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010144",
+		"jp_text": "エピス・イリニオンダガーⅢ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010127",
+		"jp_text": "アルセ・ニレンカムイ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010145",
+		"jp_text": "トワル・レルヒダガーⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010146",
+		"jp_text": "レジェスダガーⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010147",
+		"jp_text": "レイティーダガーⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010148",
+		"jp_text": "トワル・レルヒダガーAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]

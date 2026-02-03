@@ -2182,5 +2182,82 @@
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
+	},
+	{
+		"assign": "11010162",
+		"jp_text": "ゼネス・デイブルソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010163",
+		"jp_text": "ヴォルヘールソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010164",
+		"jp_text": "アインデールソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010166",
+		"jp_text": "クレス・デイブルソードAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010171",
+		"jp_text": "レイティーソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010185",
+		"jp_text": "エピス・イリニオンソードⅢ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010159",
+		"jp_text": "アルセ・ダークフロウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010186",
+		"jp_text": "トワル・シュメッターソードⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010187",
+		"jp_text": "レジェスソードⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010188",
+		"jp_text": "レイティーソードⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010189",
+		"jp_text": "トワル・シュメッターソードAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]

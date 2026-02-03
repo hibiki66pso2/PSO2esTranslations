@@ -257,5 +257,75 @@
 		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
+	},
+	{
+		"jp_text": "Ma「災神の伝承」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ma「ユリィ＆ステラ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ma「アリエスの覚醒」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ma「東方紅魔郷」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ma「ユミアのアトリエ：キービジュアル」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ma「超・星譚祭記念’25」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ma「PSO2：EP6設定資料集」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ma「ミャオ＆アリス」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ma「超・夢幻祭記念'25」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ma「ウェポノイド」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
 	}
 ]

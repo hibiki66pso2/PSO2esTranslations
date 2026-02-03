@@ -2098,5 +2098,82 @@
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
+	},
+	{
+		"assign": "112010096",
+		"jp_text": "ゼネス・ローザタリス",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "112010097",
+		"jp_text": "ヴォルヘールタリス",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "112010098",
+		"jp_text": "アインデールタリス",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "112010100",
+		"jp_text": "クレス・ローザタリスAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "112010102",
+		"jp_text": "レイティータリス",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "112010107",
+		"jp_text": "エピス・イリニオンタリスⅢ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "112010094",
+		"jp_text": "アルセ・モタブプロフェシー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "112010108",
+		"jp_text": "トワル・トレファルタリスⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "112010109",
+		"jp_text": "レジェスタリスⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "112010110",
+		"jp_text": "レイティータリスⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "112010112",
+		"jp_text": "トワル・トレファルタリスAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]

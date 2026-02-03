@@ -175,6 +175,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「メッセージボード」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ロッカー」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -203,7 +210,112 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「グランドピアノ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リズムギター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「サイドギター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ベース」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ドラムセット」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ヴォーカルマイク」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ヴァイオリン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「コントラバス」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「フルート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「トランペット」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ティンパニ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「トライアングル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「指揮台」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ウォールシェルフ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ミニガーデン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「イントルーダーアラーム」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -322,6 +434,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ジュークボックス」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ソニック」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -420,6 +539,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「フォトガチャン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ヨーガマット」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ストライプチェア」",
 		"tr_text": "",
 		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
@@ -451,6 +584,13 @@
 		"jp_text": "BP「スイートチェア」",
 		"tr_text": "",
 		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「キングスチェア」",
+		"tr_text": "",
+		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -724,6 +864,13 @@
 		"jp_text": "BP「ハニーイエローチェア」",
 		"tr_text": "",
 		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ＰＲＥボックス」",
+		"tr_text": "",
+		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -1771,6 +1918,48 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「エキゾチックトラッドベッドB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エキゾチックトラッドソファB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エキゾチックトラッドテーブルB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エキゾチックトラッドマットB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エキゾチックトラッドシェルフB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エキゾチックトラッドライト」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ウェスタンベッド」",
 		"tr_text": "",
 		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
@@ -1988,6 +2177,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ブッシュドノエル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「シュトーレン」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -2080,6 +2276,13 @@
 	},
 	{
 		"jp_text": "BP「とっくり＆おちょこ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「餅つき」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -3003,6 +3206,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ホリデーギフトB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「リリーパチェア」",
 		"tr_text": "",
 		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
@@ -3013,6 +3223,13 @@
 		"jp_text": "BP「ラッピーベッド」",
 		"tr_text": "",
 		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「オッソリアバスタブ」",
+		"tr_text": "",
+		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -3052,6 +3269,27 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「オラクルチェア」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「オラクルテーブル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「オラクルバス」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ドラゴンボートソファ」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -3073,7 +3311,28 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「龍の置物」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「倒福」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「象の噴水」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ツマラナイモノB」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -3144,6 +3403,13 @@
 	},
 	{
 		"jp_text": "BP「ロードプレートB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ビッグサイズバス」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -3549,6 +3815,41 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ナイトクラブステージ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ダイナミックスピーカー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「モニタースピーカー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クラブミラーボール」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ホリゾントライト」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ナイトクラブフェンス標準型」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -3934,6 +4235,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「戦国屏風」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「フタ付きゴミ箱」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -3970,6 +4278,20 @@
 	},
 	{
 		"jp_text": "BP「カチカチダマ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ブリスターパック」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「レコードプレイヤー」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -4060,6 +4382,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ジューシーステーキ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「デスクトップPC」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -4075,6 +4404,97 @@
 	},
 	{
 		"jp_text": "BP「屋台」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「和柄ヴォーカルマイク」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「和柄ヴォーカルマイクB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「和柄ベース」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「和柄ギター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「和柄ドラムセット」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「和太鼓」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「和柄ヴァイオリン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「尺八」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「三味線」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「和琴」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「和柄グランドピアノ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「舞扇子」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ツキノウサギ」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -4180,6 +4600,34 @@
 	},
 	{
 		"jp_text": "BP「マトイ（イデア）ポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「レコーディングマイク」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クーナステージ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クーナステージB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「電子ドラムセット」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -4334,6 +4782,13 @@
 	},
 	{
 		"jp_text": "BP「学校の掲示板B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「アサガオの鉢B」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -4907,6 +5362,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「醤油ラーメン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「寿司下駄」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -4915,6 +5377,13 @@
 	},
 	{
 		"jp_text": "BP「ヨセナベ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「すき焼き」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -4956,7 +5425,35 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ウォーターサーバー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ハンギングチェア」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「羽子板」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「カマクラ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「打掛」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -5005,6 +5502,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「コウヨウツリー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「マツタケ」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -5020,6 +5524,13 @@
 	},
 	{
 		"jp_text": "BP「壁かラッピー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「Ｄ・ビブラス飼育キット」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -5083,6 +5594,83 @@
 	},
 	{
 		"jp_text": "BP「『PSO2es』：ポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ＰＳＯポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ＰＳＯポスターB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ＰＳＯポスターC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ＰＳＯポスターD」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ＰＳＯポスターE」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ＰＳＯポスターF」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ＰＳＯポスターG」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ＰＳＯポスターH」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ＰＳＯ　ＢＢポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ＰＳＯ　ＢＢポスターB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「Ｐ－ＳＰＥＣポスター」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -5313,7 +5901,49 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「うえぽのＳＰマットＡ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「『PSO2』EP5ビジュアルポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ヤミガラスパネル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ヤミガラスポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「うえぽのＳＰマットＢ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ブルージーＲポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ブルージーＲマット」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -5425,6 +6055,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「お雑煮」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ファーストバーガー」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -5475,6 +6112,20 @@
 	},
 	{
 		"jp_text": "BP「リリーパカップル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ニレンカムイポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ライトニングＥポスター」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -5538,6 +6189,13 @@
 	},
 	{
 		"jp_text": "BP「Vラッピートロフィー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「『PSO2』EP6ビジュアルポスター」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -5663,6 +6321,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「オータムリース」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「オータムスワッグ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「SEGAロゴB」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -5712,6 +6384,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「シバの玉座」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「CDパッケージマット23」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「セガサターンNA」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -5748,6 +6434,13 @@
 	},
 	{
 		"jp_text": "BP「ルーサークリスマスポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「シバクリスマスポスター」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -8436,6 +9129,104 @@
 	},
 	{
 		"jp_text": "BP「リテナ：タペストリーB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：チェアB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：チェアC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：テーブルB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：テーブルC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：ローテーブルB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：シャンデリア」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：ランタンB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：ベッド」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：ソファ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：収納棚B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：鉢植えB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：鉢植えC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：丸太」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クヴァル：薪割り台」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -13280,6 +14071,671 @@
 	},
 	{
 		"jp_text": "BP「『NGS』4周年ポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ユミアアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「アイラアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ルトガーアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ニーナアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ユミアのアトリエ：ポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ユミアのアトリエ：ポスターB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「アルバー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ゴールドぷに」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「博麗霊夢アクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「霧雨魔理沙アクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「フランドール・スカーレットアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「レミリア・スカーレットアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「チルノアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「十六夜咲夜アクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「弾幕：光（小）」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「弾幕：光（大）」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「弾幕：光（楕円）」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「弾幕：ナイフ（小）」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「弾幕：ナイフ（大）」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ウォータースペース：立方体B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ウォータースペース：円柱B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「『PSO2』13周年ポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ギルプリ：ミャオポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ギルプリ：アリスポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ギルプリ：クロエポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ギルプリ：クオンポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ギルプリ：エルフィーナポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「機動砲器ブルームストライカー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「秘鍵ヴォーパルソード」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「合体重電子砲サイクロンキャノン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「鎌威断薙・零式」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「指揮剣ゼファーバトン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：キャンプモニュメント」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：樹木B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：樹木」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：照明」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：照明B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「カトリアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スクナヒメアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ゼノアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リサアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クーナアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ヒューイアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「マトイアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「レギアスアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：ヘキサブロック」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：ヘキサブロックB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：ヘキサピラー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：ヘキサタイル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：柱」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：巨岩」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：巨岩B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：円錐岩」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：硫黄岩」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：硫黄池」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スティラ：硫黄つらら」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「伝想器」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「オルタレルムブロック」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「清夏のジェネ水着アクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「潮騒のアネット水着アクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「アフタル水着アクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ホルシード水着アクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ブルーノ水着アクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「『PSO2es』6周年ポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「清夏のジェネ水着フラッグ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「潮騒のアネット水着ビーチボール」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「アフタル水着ウォーターガン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ラッピーアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「デモニアセイバーアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「サイキホウヨクアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ストラジオキャスルクアクスタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ラッピーポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「デモニアセイバーポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「サイキホウヨクポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ストラジオキャスルクポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「大きなクマグルミ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ラッピークッション」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スノーチューブ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ホリデイスレイ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「番傘」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「煙突」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スポットライト」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スポットライト2」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「マリトッツォ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スターオーナメント」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ギフトボックスセット」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ステンドグラス」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ザッハトルテ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「カオスザヴェル魔法陣」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「『PSO』25周年記念ポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「超・創世祭記念ポスターB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「タイムアタックトロフィー'25（銀）」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「タイムアタックトロフィー'25（金）」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ラインストライクトロフィー'25（銀）」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ラインストライクトロフィー'25（金）」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",

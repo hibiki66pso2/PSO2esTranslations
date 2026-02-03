@@ -1916,5 +1916,82 @@
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
+	},
+	{
+		"assign": "114010113",
+		"jp_text": "ゼネス・デイブルカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010114",
+		"jp_text": "ヴォルヘールカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010115",
+		"jp_text": "アインデールカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010117",
+		"jp_text": "クレス・デイブルカタナAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010118",
+		"jp_text": "レイティーカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010124",
+		"jp_text": "エピス・イリニオンカタナⅢ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010112",
+		"jp_text": "アルセ・オロチアギト",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010125",
+		"jp_text": "トワル・ブラウリーヒカタナⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010126",
+		"jp_text": "レジェスカタナⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010127",
+		"jp_text": "レイティーカタナⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010128",
+		"jp_text": "トワル・ブラウリーヒカタナAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]

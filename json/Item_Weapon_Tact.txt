@@ -754,5 +754,82 @@
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
+	},
+	{
+		"assign": "118010093",
+		"jp_text": "ゼネス・フレッドタクト",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "118010094",
+		"jp_text": "ヴォルヘールタクト",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "118010095",
+		"jp_text": "アインデールタクト",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "118010097",
+		"jp_text": "クレス・フレッドタクトAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "118010099",
+		"jp_text": "レイティータクト",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "118010102",
+		"jp_text": "エピス・イリニオンタクトⅢ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "118010090",
+		"jp_text": "アルセ・エビルカースト",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "118010103",
+		"jp_text": "トワル・ブラウリーヒタクトⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "118010104",
+		"jp_text": "レジェスタクトⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "118010105",
+		"jp_text": "レイティータクトⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "118010106",
+		"jp_text": "トワル・ブラウリーヒタクトAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]

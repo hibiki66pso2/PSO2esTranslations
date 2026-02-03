@@ -1874,5 +1874,82 @@
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
+	},
+	{
+		"assign": "17010104",
+		"jp_text": "ゼネス・デイブルスラッシュ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "17010105",
+		"jp_text": "ヴォルヘールスラッシュ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "17010106",
+		"jp_text": "アインデールスラッシュ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "17010109",
+		"jp_text": "クレス・デイブルスラッシュAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "17010110",
+		"jp_text": "レイティースラッシュ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "17010118",
+		"jp_text": "エピス・イリニオンスラッシュⅢ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "17010102",
+		"jp_text": "アルセ・ブリンガーライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "17010119",
+		"jp_text": "トワル・レルガントスラッシュⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "17010120",
+		"jp_text": "レジェススラッシュⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "17010121",
+		"jp_text": "レイティースラッシュⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "17010123",
+		"jp_text": "トワル・レルガントスラッシュAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]

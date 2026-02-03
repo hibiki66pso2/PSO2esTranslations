@@ -1832,5 +1832,82 @@
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
+	},
+	{
+		"assign": "117010127",
+		"jp_text": "ゼネス・デイブルブレード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "117010128",
+		"jp_text": "ヴォルヘールブレード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "117010129",
+		"jp_text": "アインデールブレード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "117010131",
+		"jp_text": "クレス・デイブルブレードAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "117010133",
+		"jp_text": "レイティーブレード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "117010139",
+		"jp_text": "エピス・イリニオンブレードⅢ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "117010126",
+		"jp_text": "アルセ・サンゲヤシャ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "117010140",
+		"jp_text": "トワル・シュメッターブレードⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "117010141",
+		"jp_text": "レジェスブレードⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "117010142",
+		"jp_text": "レイティーブレードⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "117010145",
+		"jp_text": "トワル・シュメッターブレードAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]

@@ -2049,5 +2049,82 @@
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
+	},
+	{
+		"assign": "19010107",
+		"jp_text": "ゼネス・フレッドランチャー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "19010108",
+		"jp_text": "ヴォルヘールランチャー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "19010109",
+		"jp_text": "アインデールランチャー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "19010111",
+		"jp_text": "クレス・フレッドランチャーAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "19010113",
+		"jp_text": "レイティーランチャー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "19010119",
+		"jp_text": "エピス・イリニオンランチャーⅢ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "19010106",
+		"jp_text": "アルセ・バーニングビジット",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "19010120",
+		"jp_text": "トワル・プラネターランチャーⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "19010121",
+		"jp_text": "レジェスランチャーⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "19010122",
+		"jp_text": "レイティーランチャーⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "19010125",
+		"jp_text": "トワル・プラネターランチャーAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]

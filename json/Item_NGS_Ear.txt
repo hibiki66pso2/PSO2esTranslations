@@ -357,6 +357,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "ラウンディラットイヤー",
+		"tr_text": "",
+		"jp_explain": "使用すると新しい耳が\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ラウンディラットイヤー/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しい耳が\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ピアッシングイヤー/2",
 		"tr_text": "",
 		"jp_explain": "使用すると新しい耳が\n選択可能になる。",
@@ -365,6 +379,20 @@
 	},
 	{
 		"jp_text": "ピアッシングイヤー/3",
+		"tr_text": "",
+		"jp_explain": "使用すると新しい耳が\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "レオパードイヤー",
+		"tr_text": "",
+		"jp_explain": "使用すると新しい耳が\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "レオパードイヤー/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しい耳が\n選択可能になる。",
 		"tr_explain": "",

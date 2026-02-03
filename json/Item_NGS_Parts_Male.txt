@@ -462,6 +462,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "テスカトーラス・アーム/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "レイスターン・アーム",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
@@ -525,6 +532,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "ディノレックス・アーム/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "アクラオ・アームUC",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
@@ -574,6 +588,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "トラバークル・アーム/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "フレズヴェルク＝アーテル・アーム",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
@@ -610,6 +631,13 @@
 	},
 	{
 		"jp_text": "トイフェント・アームUC",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ディノレックス・アームV2/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -792,6 +820,69 @@
 	},
 	{
 		"jp_text": "ライカンスローダ・アーム/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ハーデモス・アーム",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "テスカトーラス・アーム/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "テスカトーラス・アーム/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "トラバークル・アーム/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "トラバークル・アーム/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ディノレックス・アーム/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ディノレックス・アームV2/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ディノレックス・アーム/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ディノレックス・アームV2/D",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -1260,6 +1351,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "テスカトーラス・ボディ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "レイスターン・ボディ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
@@ -1323,6 +1421,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "ディノレックス・ボディ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "アクラオ・ボディUC",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
@@ -1352,6 +1457,13 @@
 	},
 	{
 		"jp_text": "トラバークル・ボディ",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "トラバークル・ボディ/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -1555,6 +1667,55 @@
 	},
 	{
 		"jp_text": "ライカンスローダ・ボディ/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ハーデモス・ボディ",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "テスカトーラス・ボディ/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "テスカトーラス・ボディ/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "トラバークル・ボディ/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "トラバークル・ボディ/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ディノレックス・ボディ/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ディノレックス・ボディ/D",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -2023,6 +2184,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "テスカトーラス・レッグ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "レイスターン・レッグ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
@@ -2086,6 +2254,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "ディノレックス・レッグ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "アクラオ・レッグUC",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
@@ -2115,6 +2290,13 @@
 	},
 	{
 		"jp_text": "トラバークル・レッグ",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "トラバークル・レッグ/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -2157,6 +2339,13 @@
 	},
 	{
 		"jp_text": "トイフェント・レッグUC",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ディノレックス・レッグV2/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -2339,6 +2528,69 @@
 	},
 	{
 		"jp_text": "ライカンスローダ・レッグ/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ハーデモス・レッグ",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "テスカトーラス・レッグ/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "テスカトーラス・レッグ/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "トラバークル・レッグ/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "トラバークル・レッグ/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ディノレックス・レッグ/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ディノレックス・レッグV2/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ディノレックス・レッグ/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ディノレックス・レッグV2/D",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",

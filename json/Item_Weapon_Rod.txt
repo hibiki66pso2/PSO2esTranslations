@@ -2252,5 +2252,82 @@
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
+	},
+	{
+		"assign": "111010151",
+		"jp_text": "ゼネス・フレッドロッド",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "111010152",
+		"jp_text": "ヴォルヘールロッド",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "111010153",
+		"jp_text": "アインデールロッド",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "111010155",
+		"jp_text": "クレス・フレッドロッドAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "111010158",
+		"jp_text": "レイティーロッド",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "111010173",
+		"jp_text": "エピス・イリニオンロッドⅢ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "111010145",
+		"jp_text": "アルセ・サイコウォンド",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "111010174",
+		"jp_text": "トワル・グレーヴァロッドⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "111010175",
+		"jp_text": "レジェスロッドⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "111010176",
+		"jp_text": "レイティーロッドⅡ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "111010178",
+		"jp_text": "トワル・グレーヴァロッドAT",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]
