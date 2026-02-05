@@ -2765,28 +2765,28 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「風3R：クーナ（ホリデイ）」",
+		"jp_text": "Ca「風?R：クーナ（ホリデイ）」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「光5R：マザー（ホリデイ）」",
+		"jp_text": "Ca「光?R：マザー（ホリデイ）」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「氷2R：アネット（ホリデイ）」",
+		"jp_text": "Ca「氷?R：アネット（ホリデイ）」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「風3R：アフタル（ホリデイ）」",
+		"jp_text": "Ca「風?R：アフタル（ホリデイ）」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",

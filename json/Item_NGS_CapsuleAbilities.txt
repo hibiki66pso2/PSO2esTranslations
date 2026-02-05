@@ -6386,63 +6386,63 @@
 	{
 		"jp_text": "C/EXターンオーバーA",
 		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\n<yellow>★７以上のEX特殊能力は１つのみ追加可能<c>",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/EXリスキースタンスA",
 		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\n<yellow>★７以上のEX特殊能力は１つのみ追加可能<c>",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/EXショーテージPPバーンアップA",
 		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\n<yellow>★７以上のEX特殊能力は１つのみ追加可能<c>",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/EXキープバランスA",
 		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\n<yellow>★７以上のEX特殊能力は１つのみ追加可能<c>",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/EXクリティカルインライヴンA",
 		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\n<yellow>★７以上のEX特殊能力は１つのみ追加可能<c>",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/EXヘヴィアタックプロテクトA",
 		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\n<yellow>★７以上のEX特殊能力は１つのみ追加可能<c>",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/EXライトアタックプロテクトA",
 		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\n<yellow>★７以上のEX特殊能力は１つのみ追加可能<c>",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/EXテックアーツPPサプレスA",
 		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\n<yellow>★７以上のEX特殊能力は１つのみ追加可能<c>",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "C/EXグラジュアリープレッシングA",
 		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\n<yellow>★７以上のEX特殊能力は１つのみ追加可能<c>",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "",
 		"assign": 0
 	}
