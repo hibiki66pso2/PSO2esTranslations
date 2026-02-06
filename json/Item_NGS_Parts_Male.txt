@@ -525,6 +525,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "ダンタロス・アーム/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ディノレックス・アーム",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
@@ -659,6 +666,13 @@
 	},
 	{
 		"jp_text": "ダンタロス・アームV2",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ダンタロス・アームV2/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -855,6 +869,20 @@
 	},
 	{
 		"jp_text": "トラバークル・アーム/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "武威登龍“凱風快晴”・アーム",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "武威登龍“凱風快晴”・アーム/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -1414,6 +1442,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "ダンタロス・ボディ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ディノレックス・ボディ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
@@ -1520,6 +1555,13 @@
 	},
 	{
 		"jp_text": "ダンタロス・ボディV2",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ダンタロス・ボディV2/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -1702,6 +1744,20 @@
 	},
 	{
 		"jp_text": "トラバークル・ボディ/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "武威登龍“凱風快晴”・ボディ",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "武威登龍“凱風快晴”・ボディ/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -2247,6 +2303,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "ダンタロス・レッグ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ディノレックス・レッグ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
@@ -2381,6 +2444,13 @@
 	},
 	{
 		"jp_text": "ダンタロス・レッグV2",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ダンタロス・レッグV2/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -2569,6 +2639,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "武威登龍“凱風快晴”・レッグ",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "武威登龍“凱風快晴”・レッグ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ディノレックス・レッグ/C",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
@@ -2591,34 +2675,6 @@
 	},
 	{
 		"jp_text": "ディノレックス・レッグV2/D",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "武威登龍\"凱風快晴\"・アーム",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "武威登龍\"凱風快晴\"・レッグ",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "武威登龍\"凱風快晴\"・アーム/B",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "武威登龍\"凱風快晴\"・レッグ/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",
