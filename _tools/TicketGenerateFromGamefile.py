@@ -4,6 +4,7 @@ import json
 import requests
 import unicodedata
 import portion as P
+import urllib3
 
 # ——————————————————————————————
 # LANGUAGE SETTING
@@ -140,7 +141,8 @@ vo_path = "Item_Stack_Voice.txt"
 def get_web(url):
     url_part = url.rsplit('/', 1)[-1].split('?', 1)[-1]
     # Send the get request
-    response = requests.get(url)
+    urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+    response = requests.get(url, verify=False)
     # If successed, load the data
     if response.status_code == 200:
         lines = response.text
@@ -224,7 +226,7 @@ def parse_data(file_path, file_type):
                                         ['マイショップ出品不可', '初期', 'alt="GP"', 'alt="SG"', '交換</td>', '季節イベント</td>','トレジャースクラッチ', 'SPスクラッチ</td>', '開発準備特別票</td>', 'クラス育成特別プログラム', '初期登録</td>']):
                                         trade_infos[jp_text] = "Untradable"
                                 elif headname == 'Ca':
-                                    match = re.match(r'Ca「(.*?)([0-9])R?：(.*?)」', n_line)
+                                    match = re.match(r'Ca「(.*?)([0-9])[RU]?：(.*?)」', n_line)
                                     if match:
                                         jp_text = match.group(3)
                                         jp_itype = match.group(1)
@@ -794,7 +796,12 @@ def edit_sp_explains(prefix, jp_text, explains):
             f"{explains[0]}\nアイテムラボの“強化素材交換”で\n特定のカプセルとの交換にも用いられる。",
             f"{explains[1]}\n也可在道具實驗室的“交換強化素材”處\n用於交換特定的膠囊。",
             f"{explains[2]}\nCan also be exchanged for specific\ncapsules at the Item Lab."]
-    if prefix == "cp_f" and "クロウリック・アーム" in jp_text:
+    elif prefix == "aug" and re.search(r"(EX.*A$)", jp_text):
+        explains = [
+            f"{explains[0]}\n<yellow>★７以上のEX特殊能力は１つのみ追加可能<c>",
+            f"{explains[1]}\n<yellow>僅可追加1個★7或以上的EX特殊能力<c>",
+            f"{explains[2]}\n<yellow>Only 1 EX Special Ability of\n7★ or above can be added<c>"]
+    elif prefix == "cp_f" and "クロウリック・アーム" in jp_text:
         explains = [
             f"{explains[0]}\n<yellow>※武器の構え位置自動調整<c>",
             f"{explains[1]}\n<yellow>※自動調整武器架勢的位置<c>",
@@ -817,6 +824,9 @@ def edit_sp_texts(prefix, jp_text, tr_text, jp_refer):
         sp_texts = ["（ホリデイ）", "（假日）", " (Holiday)"]
         jp_text += sp_texts[0]
         tr_text += sp_texts[LANG]
+    elif prefix == "ca" and "せんとらるっ！　" in jp_text:
+        sp_char = "！"
+        jp_text = jp_text.replace(sp_char + "　", sp_char)
     
     return jp_text, tr_text
 

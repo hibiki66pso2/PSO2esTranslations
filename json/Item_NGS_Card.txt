@@ -742,14 +742,14 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「光4：マトイ」",
+		"jp_text": "Ca「光5：マトイ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「光4R：マトイ」",
+		"jp_text": "Ca「光5R：マトイ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
@@ -2401,14 +2401,14 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「風?：ラン」",
+		"jp_text": "Ca「風3：ラン」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「風?R：ラン」",
+		"jp_text": "Ca「風3R：ラン」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
@@ -2443,28 +2443,42 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「炎?：カトリ」",
+		"jp_text": "Ca「光4：マトイ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「炎?R：カトリ」",
+		"jp_text": "Ca「光4R：マトイ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「雷?：ハリエット」",
+		"jp_text": "Ca「炎4：カトリ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「雷?R：ハリエット」",
+		"jp_text": "Ca「炎4R：カトリ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ca「雷3：ハリエット」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ca「雷3R：ハリエット」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
@@ -2723,56 +2737,56 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「闇?：マノン」",
+		"jp_text": "Ca「闇2：マノン」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「闇?R：マノン」",
+		"jp_text": "Ca「闇2R：マノン」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「光?：アイナ」",
+		"jp_text": "Ca「光2：アイナ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「光?R：アイナ」",
+		"jp_text": "Ca「光2R：アイナ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「雷?：ラッピー」",
+		"jp_text": "Ca「雷2：ラッピー」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「雷?R：ラッピー」",
+		"jp_text": "Ca「雷2R：ラッピー」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「氷?：グレン」",
+		"jp_text": "Ca「氷5：グレン」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「氷?R：グレン」",
+		"jp_text": "Ca「氷5R：グレン」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
@@ -2835,168 +2849,168 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「炎?：アリサ」",
+		"jp_text": "Ca「炎5：アリサ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「炎?R：アリサ」",
+		"jp_text": "Ca「炎5R：アリサ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「炎?：ティア」",
+		"jp_text": "Ca「炎2：ティア」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「炎?R：ティア」",
+		"jp_text": "Ca「炎2R：ティア」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「氷?：RINA」",
+		"jp_text": "Ca「氷3：RINA」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「氷?R：RINA」",
+		"jp_text": "Ca「氷3R：RINA」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「氷?：パティ」",
+		"jp_text": "Ca「氷2：パティ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「氷?R：パティ」",
+		"jp_text": "Ca「氷2R：パティ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「風?：A.I.S」",
+		"jp_text": "Ca「風5：A.I.S」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「風?R：A.I.S」",
+		"jp_text": "Ca「風5R：A.I.S」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「風?：アイカ」",
+		"jp_text": "Ca「風4：アイカ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「風?R：アイカ」",
+		"jp_text": "Ca「風4R：アイカ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「光?：イツキ」",
+		"jp_text": "Ca「光4：イツキ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「光?R：イツキ」",
+		"jp_text": "Ca「光4R：イツキ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「闇?：マトイ・ヴィエル」",
+		"jp_text": "Ca「闇5：マトイ・ヴィエル」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「闇?R：マトイ・ヴィエル」",
+		"jp_text": "Ca「闇5R：マトイ・ヴィエル」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「光?：せんとらるっ！　アイナ」",
+		"jp_text": "Ca「光2：せんとらるっ！アイナ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「光?R：せんとらるっ！　アイナ」",
+		"jp_text": "Ca「光2R：せんとらるっ！アイナ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「風?：せんとらるっ！　マノン」",
+		"jp_text": "Ca「風5：せんとらるっ！マノン」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「風?R：せんとらるっ！　マノン」",
+		"jp_text": "Ca「風5R：せんとらるっ！マノン」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「雷?：せんとらるっ！　ブルーダー」",
+		"jp_text": "Ca「雷5：せんとらるっ！ブルーダー」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「雷?R：せんとらるっ！　ブルーダー」",
+		"jp_text": "Ca「雷5R：せんとらるっ！ブルーダー」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「炎?U：ティア」",
+		"jp_text": "Ca「炎2U：ティア」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「氷?U：パティ」",
+		"jp_text": "Ca「氷2U：パティ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
